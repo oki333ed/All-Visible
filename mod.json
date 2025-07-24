@@ -1,0 +1,25 @@
+{
+	"geode": "4.6.3",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "oki3ed.all_visible",
+	"name": "All Visible",
+	"version": "v1.0.0",
+	"developer": "oki3ed",
+	"description": "Make all nodes visible.",
+	"early-load": true,
+	"tags": [
+		"universal",
+		"joke",
+		"interface",
+		"offline"
+	],
+	"links": {
+		"source": "https://github.com/oki333ed/All-Visible",
+		"homepage": "https://oki333ed.rf.gd"
+	}
+}
